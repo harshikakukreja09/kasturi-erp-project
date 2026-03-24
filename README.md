@@ -1,1 +1,1 @@
-# kasturi-erp-project
+# kasturi-erp
